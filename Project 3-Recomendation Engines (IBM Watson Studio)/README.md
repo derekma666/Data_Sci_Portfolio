@@ -1,34 +1,46 @@
-# Global climate change risks: warming analysis
+# Recommendation with IBM
 
-**Project Motivation**
+## Table of Contents
+ * [Installations](#installations)
+ * [Project Motivation](#project-motivation)
+ * [File Descriptions](#file-descriptions)
+ * [Licensing, Authors, Acknowledgements, etc.](#licensing-authors-acknowledgements-etc)
+ 
 
-In this project, a dataset from Kaggle (Climate Change: Earth Surface Temperature Data) was adopted (https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data) to investigate the global climate changes.
-In this data blog, three key questions are raised as follows:
+## Installations
+ - NumPy
+ - Pandas
+ - Matplotlib
+ - Pillow
+ - Pickle
+ 
+No additional installations beyond the Python and Jupyter notebooks.
 
-* 1. How the temperature changes in each season? 
-* 2. What's temperature difference in each country in the dataset?
-* 3. When did global warming started?
+## Project Motivation
+In this project, users' interactions with articles on the IBM Watson Studio platform were comprehensively analysed, and a recommendation system was built to recommend new articles to the users who would like to read. The project was divided into following tasks:
 
-**Installation**
+ - Exploratory Data Analysis
+ - Rank Based Recommendations
+ - User-User Based Collaborative Filtering
+ - Matrix factorisation
 
-* numpy
-* pandas
-* matplotlib
-* plotly
+## File Descriptions
 
-**File Descriptions**
+data    
 
-* data: it contains data files of global climate data named with conventions of "GlobalTemperatures.csv" and "GlobalLandTemperaturesByCity.csv"
-* Climate.ipynb: The Jupyter Notebook used for the main analytics
+|- articles_community.csv # articles     
+|- user-item-interactions.csv # user item interactions data  
 
-**Results**
 
-Primary findings of the code can be found at the Jupyter Notebook and blog post as follows.
+Recommendations_with_IBM.ipynb # Jupyter notebook     
+Recommendations_with_IBM.ipynb # html of jupyter notebook     
+debug.log
+project_tests.py # project tests python script
+top_10.p
+top_20.p
+top_5.p
 
-* [Project Notebook: Global climate change risks: warming analysis](http://) 
+README.md    
 
-* [Blog Post: Global climate change risks: warming analysis](https://medium.com)
-
-**Licensing Acknowledgements**
-
-Thank you for @StackOverflow for sharing your developer survey for multiple years
+## Licensing, Authors, Acknowledgements, etc.
+Acknowledgement should go to Udacity for the project inspiration.
