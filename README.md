@@ -1,12 +1,12 @@
 # Data Science Portfolio
 
-### Project 1 - Data Science Blog
+### Project 1 - Data Science Blog (Medium)
 
 **Description:** 
 
-In this project, a dataset from Kaggle (Climate Change: Earth Surface Temperature Data) was adopted to investigate the global climate changes. The project notebook could be found as follows:
+In this project, a dataset from **Kaggle (Climate Change: Earth Surface Temperature Data)** was adopted to investigate the global climate changes. The project notebook could be found as follows:
 
-* [Project Notebook: Global climate change risks: warming analysis](https://github.com/derekma666/Data_science_portfolio/blob/da8d52c42ed137f380188067fef4bd4f897cbb28/Project%201-Data%20Science%20Blog/Climate.ipynb) 
+* [Project Notebook: Global climate change risks: warming analysis](https://github.com/derekma666/Data_Sci_Portfolio/blob/a3da3d81aaed586300cf51a48586a38fb7f23fb4/Project%201-Data%20Science%20Blog/Climate.ipynb) 
 
 * [Blog Post: Global climate change risks: warming analysis](https://derekma666.medium.com/global-climate-change-risks-warming-analysis-a20d3da93740)
 
