@@ -16,7 +16,7 @@ In this project, a dataset from **Kaggle (Climate Change: Earth Surface Temperat
 
 In this project, disaster data were analyzed to build a model for an API which classifies disaster messages.
 
-The datasets adopted real messages that were sent during disaster events. A machine learning pipline with multi-output classifier were built to categorize these event to reach out for a relevant relief agency.
+The datasets adopted real messages which were sent during disaster events. A machine learning pipline with multi-output classifier were built to categorize these event to reach out for a relevant relief agency.
 
 The project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. The project notebook could be found below
 
