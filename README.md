@@ -14,7 +14,7 @@ In this project, a dataset from **Kaggle (Climate Change: Earth Surface Temperat
 
 **Description:**
 
-In this project, disaster data were analyzed from Figure Eight to build a model for an API which classifies disaster messages.
+In this project, disaster data were analyzed to build a model for an API which classifies disaster messages.
 
 The datasets adopted real messages that were sent during disaster events. A machine learning pipline with multi-output classifier were built to categorize these event to reach out for a relevant relief agency.
 
@@ -42,5 +42,6 @@ In the capstone project, I built a distributed machine learning tool for a user 
 * [Project Notebook: Spark - Subset Analytics](https://github.com/derekma666/Data_Sci_Portfolio/blob/c73615a531b6cb7786b2f5425b34be296e716825/Project%204-Sparkify/Sparkify.ipynb)
 
 * [Blog Post: Understanding Customer Churning with Big Data Analytics](https://derekma666.medium.com/churn-prediction-in-sparkify-with-pyspark-2b1ad45db989)
+
 
 ![Certificate](https://user-images.githubusercontent.com/44194994/134960990-407f5ac3-b070-45b1-9de9-4784fc649c77.png)
